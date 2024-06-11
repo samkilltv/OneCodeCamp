@@ -16,3 +16,16 @@ Command: git add .
 
 Create a commit
 Command: git commit -m "This is the description."
+
+Show the history
+Author, Date, description
+Command: git log
+
+Description 
+Command: git log ---oneline
+
+This modification is already done
+
+U - Untracked
+M - Modified
+A - Added
