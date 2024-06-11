@@ -1,0 +1,7 @@
+Check for git version
+Command: git --version
+
+Configure Git
+Command: git config --global user.name "username"
+Command: git config --global user.email "email"
+
