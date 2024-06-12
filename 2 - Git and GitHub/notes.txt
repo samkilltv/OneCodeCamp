@@ -17,6 +17,9 @@ Command: git add .
 Create a commit
 Command: git commit -m "This is the description."
 
+Bypass the staging area
+Command: git commit -a -m "This is the description"
+
 Show the history
 Author, Date, description
 Command: git log
@@ -26,6 +29,8 @@ Command: git log ---oneline
 
 This modification is already done
 
-U - Untracked
-M - Modified
-A - Added
+git remote add origin [repository-url]
+
+List all of the branches
+git branch -a
+
