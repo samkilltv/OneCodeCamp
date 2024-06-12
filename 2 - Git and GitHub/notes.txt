@@ -34,3 +34,8 @@ git remote add origin [repository-url]
 List all of the branches
 git branch -a
 
+Create a branche
+Command: git branch [branch-name]
+
+Switch to a different branch
+Command: git switch [branch-name]
